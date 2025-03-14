@@ -5,8 +5,7 @@ Installation:
 use `git` to clone this repo
 
 Running:
-`cd fakesh`
-`python main.py`
+`python fakesh.py`
 
 You will be prompted 'cfg' for what you want the program to display as a 'shell' prompt. For example, typing 'user@machine ~ % ' here would result in here would result in prompting the user with:
 `user@machine ~ %` .
