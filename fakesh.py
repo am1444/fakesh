@@ -1,5 +1,5 @@
-hn = input("cfg:") # prompt for the... prompt??? help my comments pls
-crSh = input("sh_choice:") # prompt for shell to mimic
+hn = input("cfg:") # prompt for ps1 substitute
+crSh = input("sh_choice:") # what shell to mimic, e.g. zsh or bash
 
 from os import name,system
 if name=='posix': # clear screen
